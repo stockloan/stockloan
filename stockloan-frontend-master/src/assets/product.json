@@ -1,0 +1,77 @@
+{
+  "productItem": [
+    {
+      "id": 1,
+      "name": "(KB)NH스탁론(50%)",
+      "bank": "KB증권",
+      "capital": "NH캐피탈",
+      "amtLimit": 5.3,
+      "category": [1, 2]
+    },
+    {
+      "id": 2,
+      "name": "IBK 참좋은스탁론(KB)",
+      "bank": "KB증권",
+      "capital": "IBK캐피탈",
+      "amtLimit": 6.5,
+      "category": [1, 3]
+    },
+    {
+      "id": 3,
+      "name": "(유진)NH스탁론(50%)",
+      "bank": "유진투자증권",
+      "capital": "NH캐피탈",
+      "amtLimit": 5.3,
+      "category": [2]
+    },
+    {
+      "id": 4,
+      "name": "키움캐피탈론(50%)",
+      "bank": "키움증권",
+      "capital": "키움캐피탈",
+      "amtLimit": 6.6,
+      "category": [1, 2]
+    },
+    {
+      "id": 5,
+      "name": "IBK 참좋은스탁론(유진)",
+      "bank": "유진투자증권",
+      "capital": "IBK캐피탈",
+      "amtLimit": 6.5,
+      "category": [3]
+    },
+    {
+      "id": 6,
+      "name": "키움캐피탈론(100%)",
+      "bank": "키움증권",
+      "capital": "키움캐피탈",
+      "amtLimit": 6.6,
+      "category": [3]
+    },
+    {
+      "id": 7,
+      "name": "(KB)NH대환론(50%)",
+      "bank": "KB증권",
+      "capital": "MH캐피탈",
+      "amtLimit": 5.3,
+      "category": [4]
+    },
+    {
+      "id": 8,
+      "name": "키움캐피탈론(50%)대환",
+      "bank": "키움증권",
+      "capital": "키움캐피탈",
+      "amtLimit": 6.6,
+      "category": [4]
+    },
+    {
+      "id": 9,
+      "name": "키움캐피탈론(100%)대환",
+      "bank": "키움증권",
+      "capital": "키움캐피탈",
+      "amtLimit": 6.6,
+      "category": [4]
+    }
+  ],
+  "noticeList": []
+}

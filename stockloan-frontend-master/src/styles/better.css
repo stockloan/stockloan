@@ -1,0 +1,25 @@
+/* BetterSlider */
+.betterSlider-container .slick-dots {
+  bottom: -60px;
+}
+.betterSlider-container .slick-dots li {
+  margin: 0 5px;
+  width: 6px;
+  height: 6px;
+}
+
+/* button */
+.betterButton {
+  background-color: #2e9bff;
+  padding: 6px 16px;
+  border-radius: 8px;
+  color: #ffffff;
+  font-size: 15px;
+  line-height: 24px;
+}
+
+/* ETC */
+.betterCard-shadow {
+  box-shadow: 0px 4px 16px rgba(112, 144, 176, 0.12),
+    0px 2px 8px rgba(112, 144, 176, 0.12);
+}
